@@ -1,0 +1,136 @@
+
+  body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+      margin: 0px;
+      padding: 0px;
+      position: relative;
+  }
+  p {font-size: 18px;}
+  
+  .bg-1 { 
+      /* Green */
+      background-image:url('http://res.cloudinary.com/shellykkkc/image/upload/v1487940041/IMG_9362_2_haswwa.jpg');
+/*       background-size:1200px 800px; */
+    background-size:cover;
+      background-repeat:no-repeat;
+      color: black;
+      margin: 0px;
+      height: 800px;
+      
+      
+  }
+  .img-1{
+    z-index:-999;
+    top:0px;
+    left:0px;
+    position : absolute;
+  }
+  .bg-2 { 
+      background-color: #25C3B8; /* Dark Blue */
+      color: #ffffff;
+      height: 630px;
+  }
+  .bg-3 { 
+      background-color: #ffffff; /* White */
+      color: #555555;
+      height: 480px;
+  }
+  .bg-4 { 
+      background-color: #2f2f2f; /* Black Gray */
+      color: #fff;
+      height: 150px;
+      
+  }
+  .container-fluid {
+      padding-top: 50px;
+      padding-bottom: 50px;
+  }
+  .navbar {
+      background-color:rgba(0,0,0,0);
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+      
+  }
+.navbar-nav  li a:hover {
+      color: #10316d ;
+  }
+
+
+
+.img-2{
+  border-radius:50%;
+  width:250px;
+  height:250px;
+}
+.img-4{
+  border-radius:80%;
+  width:200px;
+  height:200px;
+}
+
+.content1{
+  
+  position:relative;
+  padding-left:200px;
+  padding-right:200px;
+  text-align:justify; 
+}
+
+.Q1{
+  position:relative;
+  font-size:30px;
+  font-weight:100;
+  letter-spacing:3px;
+  text-align:left;
+  margin-left:50px;
+}
+
+.A1{
+  color:#ffffff;
+  font-weight:900;
+  font-size:80px;
+  text-align:left;
+  letter-spacing:2px;
+  margin-left:40px;
+  
+  }
+.A2{
+  position:relative;
+  text-align:left;
+  margin:0px;
+  margin-left:50px;
+  font-weight:400;
+  
+}
+
+.bartop{
+  background-color:rgba(255,255,255,0.1);
+  
+}
+.Q2{
+   position:relative;
+  font-size:30px;
+  font-weight:100;
+  letter-spacing:3px;
+}
+
+.Q3{
+  position:relative;
+  font-size:30px;
+  font-weight:100;
+  letter-spacing:3px;
+}
+
+
+.icon-bar{
+  background-color:#ffffff;
+  
+}
+
